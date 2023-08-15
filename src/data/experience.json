@@ -1,0 +1,57 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.uipath.com/",
+      "company": "UiPath",
+      "title": "Software Engineer Intern - Cloud Platform",
+      "dateFrom": "May 2023",
+      "dateTo": "August 2023",
+      "info": [
+        "Developed and deployed a reverse proxy API request routing pipeline",
+        "Achieved substantial reductions in latency, network hops, and resource costs, to optimize system performance",
+        "Evaluated network security risks and mitigation strategies, including certificates, tokens, and SSL/TLS protocol",
+        "Fine-tuned a large language model (LLM) to resolve customer bug tickets, along with a full-stack UI"
+      ],
+      "stack": ["Docker", "Kubernetes", "Envoy", "Istio", "Ubuntu", "WebAssembly (WASM)", "Go", "XML", "YAML"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "http://cnt.upenn.edu/",
+      "company": "Penn Center for Neuroengineering and Therapeutics",
+      "title": "Machine Learning Undergraduate Researcher",
+      "dateFrom": "May 2022",
+      "dateTo": "August 2022",
+      "info": [
+        "Trained an NLP model to predict epilepsy patient diagnoses from discharge summaries",
+        "Explored strategies for data augmentation and hyperparameter tuning",
+        "Achieved up to 87.06% accuracy and applied predictions to over 2600 medical notes",
+        "Analyzed and visualized correlation of medication dosage and other variables with successful seizure induction, using a pharmacokinetic absorption model"
+      ],
+      "stack": ["Hugging Face", "Seq2Seq Transformer Models", "Python", "Pandas", "Epic"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://pathology.med.upenn.edu/research/centers-and-institutes/penn-neurodegeneration-genomics-center",
+      "company": "Penn Neurodegeneration Genomics Center",
+      "title": "Genomic Data Undergraduate Researcher",
+      "dateFrom": "January 2022",
+      "dateTo": "Current",
+      "info": [
+        "Identified genotype features characteristic of Alzheimer's disease",
+        "Applied open-source computational and bioinformatics tools to analyze extremely large genomic datasets",
+        "Performed colocalization studies to evaluate expression levels of genes linked to Alzheimer's disease"
+      ],
+      "stack": ["Hail", "Linux shell", "Python", "Pandas", "Bash", "VCF", "Plink", "GWAS"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    }
+  ]
+}
