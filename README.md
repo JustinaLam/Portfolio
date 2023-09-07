@@ -1,5 +1,17 @@
 # Portfolio
-Computer Science Portfolio detailing my professional experience, personal projects, and other highlights
+## Spark Submission Information
+This is a Computer Science Portfolio detailing my professional experience, personal projects, and other highlights. 
+It primarily uses React and Node.
+The application includes video playback on hover, as well as an interactive gallery that responds to swipes and arrow clicks.
+Other features include dynamic moving content, React components and animations, and limited mobile responsiveness.
+
+Time spent developing this project: estimated 15 hours
+
+To run this project: Go to https://portfolio-justinalam.vercel.app/
+
+
+------------------------------------------------------------------------------------
+
 
 # Getting Started with Create React App
 
