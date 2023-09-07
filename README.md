@@ -1,5 +1,7 @@
 # Portfolio
+
 ## Spark Submission Information
+
 This is a Computer Science Portfolio detailing my professional experience, personal projects, and other highlights. 
 It primarily uses React and Node.
 The application includes video playback on hover, as well as an interactive gallery that responds to swipes and arrow clicks.
